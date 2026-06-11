@@ -7,6 +7,7 @@ Hi, I'm Mubeen azam. This is my python learning journey.
 4. Apply for internships.
  ## Projects:
 1. Calculator CLI
-2. Number guessing game
-3. Expense Tracker.
-4. Weather App.
+2. Smart greeting
+ Number guessing game
+ Expense Tracker.
+ Weather App.
