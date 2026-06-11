@@ -1,0 +1,13 @@
+# Smart greeting
+# Author: MUbeen azam
+#Description performing time operations
+import datetime
+print("Hello guys")
+name=input("Enter your name: " )
+hour=datetime.datetime.now().hour
+if hour<12:
+    print(name, "good morning")
+elif hour<17:
+    print(name, "good afternoon")
+else:
+    print(name, "good night")
