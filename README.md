@@ -8,6 +8,7 @@ Hi, I'm Mubeen azam. This is my python learning journey.
  ## Projects:
 1. Calculator CLI
 2. Smart greeting
+3. String methods
  Number guessing game
  Expense Tracker.
  Weather App.
