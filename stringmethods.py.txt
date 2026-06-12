@@ -1,0 +1,21 @@
+#stringmethods
+a=" mubeen azam "
+print(a.strip())
+b="uplift"
+print(b.upper())
+c="UPLIFT"
+print(c.lower())
+d="harry"
+print(d.replace("harry","john"))
+e=" mubeen azam "
+print(e.title())
+kids="moosa,anaya,muhammad,mustafa"
+print(kids.split(","))
+f="ali"
+print(f.center(10))
+g="mubeen"
+print(g.find("b"))
+h="mubeen"
+print(h.startswith("mu"))
+i="Mustafa"
+print(i.endswith("fa"))
